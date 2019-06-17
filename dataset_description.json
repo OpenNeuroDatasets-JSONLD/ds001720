@@ -55,6 +55,6 @@
     "Funding": [
         "This work was supported by the Singapore Bioimaging Consortium (SBIC), A*STAR, Singapore. AG acknowledges funding from the Simons Foundation (SFARI 314688 and 400101), the Brain and Behavior Foundation (2017 NARSAD independent Investigator Grant) and the European Research Council (ERC, G.A. 802371). This work was also supported by the JSPS KAKENHI Grant Number 16K07032 to NT, Brain/MINDS, the Strategic Research Program for Brain Sciences (SRPBS) from the Ministry of Education, Culture, Sports, Science, and Technology of Japan (MEXT) and Japan Agency for Medical Research and Development (AMED) to NT and HO. It was further supported as part of the Excellence Cluster ‘BrainLinks-BrainTools’ by the German Research Foundation, grant EXC1086. AH acknowledges funding from the German BMBF (NeuroImpa, 01EC1403C and NeuroRad 02NUK034D). MD acknowledges funding from France-Alzheimer Association, Plan Alzheimer Foundation and the French Public Investment Bank’s “ROMANE” program."
     ],
-    "DatasetDOI": "",
+    "DatasetDOI": "10.18112/openneuro.ds001720.v1.0.2",
     "BIDSVersion": "1.0.2"
 }
