@@ -4,10 +4,32 @@
     },
     "gender": {
         "Description": "C57Bl/6J mice",
-	"Levels": {
+        "Levels": {
             "m": "Male",
-	    "f": "Female"
-	}
+            "f": "Female"
+        },
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:Sex",
+                "Label": ""
+            },
+            "Levels": {
+                "f": {
+                    "TermURL": "snomed:248152002",
+                    "Label": ""
+                },
+                "m": {
+                    "TermURL": "snomed:248153007",
+                    "Label": ""
+                }
+            },
+            "MissingValues": [
+                "",
+                " ",
+                "nan",
+                "n/a"
+            ]
+        }
     },
     "field": {
         "Description": "Field strength of the MRI system"
@@ -47,6 +69,15 @@
     },
     "isoflurane": {
         "Description": "Percentage of either isoflurane or halothane"
-        }
- 
+    },
+    "participant_id": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": ""
+            },
+            "Identifies": "participant"
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
+    }
 }
